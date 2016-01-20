@@ -1,6 +1,7 @@
 # mintsetup
 1. Make a liveCD usb stick
 2. Install with root partition at 16384 MB with a second partition of equal size
+3. make another partition labeled static with 20GB
 
 
 To backup
