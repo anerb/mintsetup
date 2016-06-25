@@ -55,9 +55,12 @@ sudo sh -c  'echo "
   .gstatic.com
   .googleusercontent.com
   .youtube.com:443
+  www.youtube.com/embed/playlist
   s.ytimg.com
 # This one allows the thumbnails to show up
-#  i.ytimg.com:443
+  .ytimg.com:443
+# This one allows all youtube videos to be played
+# .googlevideo.com:443
   r2---sn-1gi7zn7e.googlevideo.com:443
   r8---sn-1gi7zn7z.googlevideo.com:443
 # check /var/privoxy/logfile for more googlevideo.com:443 that were blocked
